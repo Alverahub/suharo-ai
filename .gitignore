@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n.pytest_cache/\n.env\n*.db\n*.pyc\n
